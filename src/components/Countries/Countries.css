@@ -1,0 +1,12 @@
+.title {
+    color: crimson;
+}
+
+.sub-title {
+    color: green;
+}
+
+.countries {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
